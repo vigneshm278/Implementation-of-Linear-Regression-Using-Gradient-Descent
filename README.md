@@ -21,7 +21,7 @@ Developed by: HARINI V
 RegisterNumber:212222230044  
 
 ```
-```python
+```
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
